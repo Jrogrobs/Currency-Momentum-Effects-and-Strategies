@@ -1,4 +1,4 @@
-# (Currency Momentum Effects and Strategies (Fama-Macbeth Cross-Sectional Regression and Portfolio Sorts))
+# Currency Momentum Effects and Strategies (Fama-Macbeth Cross-Sectional Regression and Portfolio Sorts)
 
 This code analyzes data of 21 currencies between 2000 and 2022 to assess the presence of
 momentum effects in currency markets. The results show the existence of momentum effects,
